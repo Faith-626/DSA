@@ -1,0 +1,6 @@
+,the,dog,chased,the,cat
+the,{Det},{NP},∅,∅,{S}
+dog,,{N},∅,∅,∅
+chased,,,{V},∅,{VP}
+the,,,,{Det},{NP}
+cat,,,,,{N}
